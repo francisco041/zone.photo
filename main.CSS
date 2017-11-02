@@ -1,0 +1,44 @@
+
+    .intro {
+    color:white;
+    background-color:black;
+    Font-family:courier;
+    text-align:center
+      \a
+      }
+    .content{
+      text-align:center;
+      background-color:white;
+      width:50%;
+      height:500px
+       border-style:double;
+       border-width:12px;
+       border-color:lightblue;
+   
+    }
+    
+    div { border-style:double
+      border-width:12px
+      border-color:white
+      }
+
+  
+    
+ 
+
+    
+    
+    .header {
+       color:black;
+       font-size:40px;
+       font-family:Forte;
+        border-style:double
+        border-width:12px
+        border-color:white
+      } 
+    
+    body 
+     {
+      background-color:grey;
+      text-align:center; 
+    }
